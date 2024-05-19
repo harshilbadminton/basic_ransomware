@@ -1,5 +1,5 @@
 import os
-from cryptography.Fernet import Fernet
+from cryptography.fernet import Fernet
 
 files = []
 
