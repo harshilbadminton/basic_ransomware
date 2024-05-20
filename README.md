@@ -53,9 +53,6 @@ Before you begin, make sure you have the following:
 - Always obtain permission before deploying any hacking tools or techniques on a machine you do not own.
 - Misuse of these tools can result in severe consequences, including legal action.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contributing
 
